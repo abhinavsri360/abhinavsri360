@@ -3,6 +3,8 @@
 ### Somehow I found this and now waiting for my conscience to make this attractive for you Guys! :pleading_face:
 
 #### Would you mind helping me? :pleading_face:
+
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <!--
 **abhinavsri360/abhinavsri360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
