@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/abhinavsri360/abhinavsri360.svg)](http://hits.dwyl.com/abhinavsri360/abhinavsri360)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhinavsri360%2Fabhinavsri360&count_bg=%23383DD2&title_bg=%231CB9DA&icon=&icon_color=%23E7E7E7&title=Smash&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Hi there 👋 ⌑
 ### Somehow I found this and now waiting for my conscience to make this attractive for you Guys! :pleading_face:
 
