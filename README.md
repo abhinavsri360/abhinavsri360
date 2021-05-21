@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhinavsri360%2Fabhinavsri360&count_bg=%23383DD2&title_bg=%231CB9DA&icon=&icon_color=%23E7E7E7&title=Smash&edge_flat=false)](https://hits.seeyoufarm.com)
-## Hi there 👋 ⌑
-### Somehow I found this and now waiting for my conscience to make this attractive for you Guys! :pleading_face:
+
+## Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+### Somehow I found this and now waiting for my conscience to make this attractive for you Guys!
 
 ### Would you mind helping me? :pleading_face:
 
